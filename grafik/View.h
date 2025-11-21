@@ -2,6 +2,7 @@
 #define VIEW_H
 
 #include "raylib.h"
+#include "../global/Constant.h"
 #include <string>
 
 class View{
@@ -10,6 +11,9 @@ class View{
 
     public:
     View();
+    ~View();
+    addVisualObject()
+
 };
 
 #endif

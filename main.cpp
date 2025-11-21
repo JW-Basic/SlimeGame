@@ -13,5 +13,11 @@ int main(void){
     std::unique_ptr<View> view;
 
     setup(view);
+
+    while(!WindowShouldClose()){
+        
+    }
+
+    CloseWindow();
     return 0;
 }
