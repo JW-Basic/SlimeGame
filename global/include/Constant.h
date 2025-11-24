@@ -4,9 +4,9 @@
 
 namespace Constant {
     //Window defaults
-    const int screenStartWidth = 1280;
-    const int screenStartHeight = 720;
-    const char* windowStartTitel = "Slime Game";
+    inline const int screenStartWidth = 1280;
+    inline const int screenStartHeight = 720;
+    inline const char* windowStartTitel = "Slime Game";
 }
 
 
